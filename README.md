@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou Ana Luísa Honorato.
 
-💻 Desenvolvedor(a) apaixonado(a) por tecnologia, programação e por transformar ideias em soluções.
+💻 Desenvolvedora apaixonadoa por tecnologia, programação e por transformar ideias em soluções.
 
 ## 🚀 Sobre mim
 
