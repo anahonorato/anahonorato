@@ -3,14 +3,23 @@ Olá! 👋 Eu sou [Seu Nome]
 💻 Desenvolvedor(a) apaixonado(a) por tecnologia, programação e por transformar ideias em soluções.
 
 🚀 Sobre mim
+
 🔭 Atualmente estou trabalhando em [projeto/área atual]
+
 🌱 Atualmente estou aprendendo [tecnologias ou assuntos]
+
 👯 Estou procurando colaborar em [projetos open source / projetos específicos]
+
 🤔 Estou buscando ajuda com [assunto ou tecnologia]
+
 💬 Pergunte-me sobre [tecnologias, projetos ou conhecimentos]
+
 📫 Como entrar em contato comigo: [seu e-mail]
+
 😄 Pronomes: [seus pronomes]
+
 ⚡ Curiosidade: [uma curiosidade sobre você]
+
 🛠️ Tecnologias e ferramentas
 
 
