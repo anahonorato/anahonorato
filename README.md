@@ -26,13 +26,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anahonorato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahonorato&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lu%C3%ADsa-honorato-080598391/)
